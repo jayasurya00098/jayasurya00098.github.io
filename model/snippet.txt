@@ -1,0 +1,11 @@
+<model-viewer src="Jay.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.png" shadow-intensity="1" autoplay environment-image="pillars_1k.hdr" exposure="1.66" camera-orbit="-20.23deg 79.87deg 2.92m" field-of-view="17.6deg" min-camera-orbit="-35deg 79deg auto" max-camera-orbit="-7deg 87deg auto">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>

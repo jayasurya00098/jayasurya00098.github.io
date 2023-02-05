@@ -583,7 +583,7 @@ input[type='checkbox'] {
 /*     Services     */
 /********************/
 .basic-2 {
-	padding-top: 7.75rem;
+	/* padding-top: 7.75rem; */
 	padding-bottom: 5.25rem;
 }
 
@@ -648,7 +648,7 @@ input[type='checkbox'] {
   }
 
 .split .area-2 {
-	padding-top: 7.75rem;
+	/* padding-top: 7.75rem; */
 	padding-bottom: 7.75rem;
 }
 
@@ -671,7 +671,7 @@ input[type='checkbox'] {
 /*     Projects     */
 /********************/
 .basic-3 {
-	padding-top: 7.75rem;
+	padding-top: 1rem;
 	padding-bottom: 1rem;
 }
 
